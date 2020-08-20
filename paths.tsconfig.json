@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "components": ["./components/"],
+            "images": ["./images/"],
+            "i18n": ["./i18n/"]
+        }
+    }
+}
